@@ -19,6 +19,11 @@
 
 [Atividade - Aula 12](aula_12/atividade_aula_12.html)<br>
 
+## Aula do dia 24/09/2018
+
+[Atividade 1 - Aula 13](aula_13/acoes.html)<br>
+[Atividade 2 - Aula 13](aula_13/movies_d3_dc.html)<br>
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).

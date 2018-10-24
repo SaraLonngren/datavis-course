@@ -24,6 +24,20 @@
 [Atividade 1 - Aula 13](aula_13/acoes.html)<br>
 [Atividade 2 - Aula 13](aula_13/movies_d3_dc.html)<br>
 
+## Aula do dia 26/09/2018
+
+[Atividade 1 - Aula 15](aula_15_e_17_(d3_crossfilter_2)/earthquakes.html)<br>
+
+## Aula do dia 03/10/2018
+[Atividade 1 - Aula 17](aula_15_e_17_(d3_crossfilter_2)/chicago.html)
+
+## Aula do dia 10/10/2018
+[Atividade 1 - Aula 19](aula_19_(d3_networks_trees)/.html)
+
+## Aula do dia 22/10/2018
+[Atividade 1 - Aula 21](aula_21_(color-d3)/usa.html)<br>
+[Atividade 2 - Aula 21](aula_21_(color-d3)/crimes.html)<br>
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).

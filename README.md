@@ -32,8 +32,8 @@
 [Atividade 1 - Aula 17](aula_15_e_17_(d3_crossfilter_2)/chicago.html)
 
 ## Aula do dia 10/10/2018
-[Atividade 1  - Aula 19](aula_19_(d3_networks_trees)/songs.html)
-[Atividade 2 - Aula 19](aula_19_(d3_networks_trees)/.html)
+[Atividade 1  - Aula 19](aula_19_(d3_networks_trees)/songs.html)<br>
+[Atividade 2 - Aula 19](aula_19_(d3_networks_trees)/.html)<br>
 
 ## Aula do dia 22/10/2018
 [Atividade 1 - Aula 21](aula_21_(color-d3)/usa.html)<br>

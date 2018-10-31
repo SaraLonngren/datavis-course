@@ -40,8 +40,8 @@
 [Atividade 2 - Aula 21](aula_21_(color-d3)/crimes.html)<br>
 
 ## Aula do dia 31/10/2018
-[Atividade 1 - Aula 23](aula_23(d3_interactive)/usa.html)<br>
-[Atividade 2 - Aula 23](aula_23(d3_interactive)/earthquakes.html)<br>
+[Atividade 1 - Aula 23](aula_23_(d3_interactive)/usa.html)<br>
+[Atividade 2 - Aula 23](aula_23_(d3_interactive)/earthquakes.html)<br>
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
